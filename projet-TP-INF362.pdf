@@ -1,0 +1,20 @@
+INF 362 - TP Système de recommandation
+
+Membres du groupe : 
+- DJONTU ETIENNE SOREL                          24F2453
+- LEFODEM ZANGUE ASSOUNA ARISTHOLE              24F2447
+
+
+Lien du depot Github : 
+
+*Implementations du Projet reussis : 
+1 Prétraitement des données :
+    - Lecture des fichiers
+    - Division des données
+2 Algorithmes de recommandation :
+    - Algorithme Des plus proches voisins (KNN)
+    - Algorithme Matrice Factorisation (MF)
+    - Algorithme du PageRank (utilisation de graphes, PAGERANK)
+3 Communication par sockets (pour une Infrastructure serveur/client)
+4 Compilation modulaire 
+5 Parralelisation (par threading)

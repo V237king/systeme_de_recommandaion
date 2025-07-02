@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "knn.h": "c",
+        "stdio.h": "c",
+        "data_reader.h": "c",
+        "matrix_factorisation.h": "c",
+        "page_rank_recommendation.h": "c",
+        "math.h": "c",
+        "matrix_factorisation.h": "c"
+    }
+}
